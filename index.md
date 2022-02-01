@@ -6,7 +6,7 @@ description: Dedicated to creators.
 
 # 获取
 
-您可以从 [Microsoft Store](https://www.microsoft.com/store/productId/9N1MKDF0F4GT) 获取我们的最新版本或在我们的 [Release 页面](https://github.com/brandonw3612/LyricEase/releases) 下载离线安装包.
+您可以从 [Microsoft Store](https://www.microsoft.com/store/productId/9N1MKDF0F4GT) 获取 LyricEase 的最新版本或在我们的 [Release 页面](https://github.com/brandonw3612/LyricEase/releases) 下载离线安装包.
 
 # 隐私条款
 
@@ -17,6 +17,18 @@ description: Dedicated to creators.
 [这里](./faq.html)是 LyricEase 的常见问题解答.
 
 # 更新日志
+
+## v0.10.99 (20220201)
+本次更新带来了以下内容：
+1. 引入了播放详情页面的动态背景，可前往设置手动开启；
+2. 引入了优化的应用内快捷键（空格-播放/暂停；Ctrl+左/右箭头-上/下一曲；Ctrl+上/下箭头-音量调节）；
+3. 引入了“我喜欢”歌单的心动模式播放功能；
+4. 引入了“私人FM”功能；
+5. 引入了听歌数据回传，从此版本开始，您在 LyricEase UWP 客户端播放的音乐将在云音乐账户中记录，同步在您所有设备上；
+6. 引入了主视图底部的播放进度控制条；
+7. 修复了搜索页面点击顶部按钮重复加载搜索结果的异常；
+8. 修复了部分操作下引起播放核心混乱的异常；
+9. 修复了动态歌词效果下错误模糊的异常。
 
 ## v0.9.94 (20211212)
 本次更新带来了以下内容:
