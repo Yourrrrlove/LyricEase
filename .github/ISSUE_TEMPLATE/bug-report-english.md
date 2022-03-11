@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+<!--
+MAKE SURE YOU HAVE SEEN THIS BEFORE YOU SUBMIT AN ISSUE
+1. Look up issues submitted by others, including open and closed ones, and make sure your issue is not a duplicate;
+2. If you're submitting a bug report, make sure you have refered to our solution in https://brandonw3612.github.io/LyricEase/faq.html .
+-->
+
 ## Describe the bug
 <!--A clear and concise description of what the bug is.-->
 
@@ -23,7 +29,8 @@ assignees: ''
 ## Screenshots
 <!--If applicable, add screenshots to help explain your problem.-->
 
-## Windows & LyricEase
+## Device, Windows & LyricEase
+ - Device Model <!--Press Windows+R, enter msinfo32, and find the "System Model" item in the popped-up dialog.--> :
  - Windows Build Version <!--[e.g. Windows 11 22000.x]--> :
  - Windows SKU <!--[e.g. Home / Pro]--> :
  - Insider Preview Program? <!--[eg. Yes / No]--> :
