@@ -7,6 +7,12 @@ assignees: ''
 
 ---
 
+<!--
+发布 issue 前请先参考这里
+1. 搜索其他用户提出的 issue （包括状态为 open 和 closed 的 issue），确保您提出的错误描述信息 / 功能建议没有和其他用户重复；
+2. 如果是错误提交，请确保您参考了 https://brandonw3612.github.io/LyricEase/faq.html 中的解决方案。
+-->
+
 ## 错误描述
 <!--请尽量清晰简短地描述您遇到的问题.-->
 
@@ -23,10 +29,11 @@ assignees: ''
 ## 屏幕截图 / 屏幕录制
 <!--如果可以, 请附上您复现错误的截图或屏幕录制视频.-->
 
-## Windows 和 LyricEase
+## 设备, Windows 和 LyricEase
+ - 设备型号 <!--按下 Windows+R 组合键，输入 msinfo32，在弹出的对话框中找到 系统型号 (System Model) 所对应的值--> :
  - Windows 版本号 <!--[e.g. Windows 11 22000.x]--> :
  - Windows SKU <!--[e.g. 家庭版 / 专业版]--> :
- - 是否为预览体验计划 <!--[eg. 是 / 否]--> : 
+ - 是否为预览体验计划 <!--[e.g. 是 / 否]--> : 
  - LyricEase 版本号 <!--[e.g. v0.9.91]--> :
 
 ## 附加信息
