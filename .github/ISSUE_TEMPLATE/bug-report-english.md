@@ -8,9 +8,26 @@ assignees: ''
 ---
 
 <!--
-MAKE SURE YOU HAVE SEEN THIS BEFORE YOU SUBMIT AN ISSUE
+
+
+
+MAKE SURE YOU HAVE READ THIS BEFORE YOU SUBMIT AN ISSUE
+MAKE SURE YOU HAVE READ THIS BEFORE YOU SUBMIT AN ISSUE
+MAKE SURE YOU HAVE READ THIS BEFORE YOU SUBMIT AN ISSUE
+
+
+
+EVERY ISSUE THAT DOES NOT MEET THE REQUIREMENTS BELOW WILL BE DIRECTLY CLOSED OR DELETED. NO SUPPORT WILL BE OFFERED
+EVERY ISSUE THAT DOES NOT MEET THE REQUIREMENTS BELOW WILL BE DIRECTLY CLOSED OR DELETED. NO SUPPORT WILL BE OFFERED
+EVERY ISSUE THAT DOES NOT MEET THE REQUIREMENTS BELOW WILL BE DIRECTLY CLOSED OR DELETED. NO SUPPORT WILL BE OFFERED
+
+
+
 1. Look up issues submitted by others, including open and closed ones, and make sure your issue is not a duplicate;
-2. If you're submitting a bug report, make sure you have refered to our solution in https://brandonw3612.github.io/LyricEase/faq.html .
+2. Make sure you have refered to our solution in https://brandonw3612.github.io/LyricEase/faq.html and your issue is not related to the existing solution in this block.
+
+
+
 -->
 
 ## Describe the bug
